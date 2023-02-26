@@ -6,8 +6,6 @@
 #include <memory>
 
 #include "math/functions.hpp"
-#include "math/Vector.hpp"
-#include "cuutils/cputimer.h"
 #include "math/matrix.hpp"
 using namespace math;
 using namespace functions;
